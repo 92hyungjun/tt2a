@@ -1,15 +1,18 @@
 
 
-void func1() {
+int sum( int a, int b ) {
     // commit 1
+    return a + b;
 }
 
-void func2() {
+int sub( int a, int b ) {
     // commit 2
+    return 0;
 }
 
-void func3() {
+int mul( int a, int b ) {
     // commit 3
+    return 0;
 }
 
 int main() {
