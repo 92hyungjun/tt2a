@@ -1,4 +1,5 @@
 
+//이 코드는 쓰레기다.
 
 int sum( int a, int b ) {
     // commit 1
