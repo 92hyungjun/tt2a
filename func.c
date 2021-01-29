@@ -7,7 +7,7 @@ int sum( int a, int b ) {
 
 int sub( int a, int b ) {
     // commit 2
-    return 0;
+    return a - b;
 }
 
 int mul( int a, int b ) {
