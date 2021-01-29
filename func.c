@@ -12,7 +12,7 @@ int sub( int a, int b ) {
 
 int mul( int a, int b ) {
     // commit 3
-    return 0;
+    return a * b;
 }
 
 int main() {
